@@ -3,4 +3,8 @@ h1 {
 }
 p {
   Color: purple;
+  line-height: 20px;
+}
+.important {
+  color: rgb(163, 3, 3);
 }
