@@ -1,21 +1,14 @@
 h1 {
   color:black;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  text-align: justify;
+  text-align: center;
 }
-p1 {
+p {
   Color: purple;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: black;
-}
-p2 {
-  Color: rgb(81, 78, 233);
-  font-family: 'Times New Roman', Times, serif;
-  background-color: black;
 }
 ol {
   color: #000
   font-style: italic;
   font-size: 20px;
-  background-color:cadetblue
 }
