@@ -2,6 +2,8 @@ h1 {
   color: #000;
 }
 p {
+  margin-top: 1in;
+  margin-bottom: 1in;
   Color: purple;
   line-height: 20px;
 }
