@@ -2,11 +2,24 @@ h1 {
   color: #000;
 }
 p {
-  margin-top: 1in;
-  margin-bottom: 1in;
   Color: purple;
   line-height: 20px;
 }
 .important {
   color: rgb(163, 3, 3);
+}
+.white-background {
+  background-color: white;
+  color: black;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  Padding: 5px;
 }
